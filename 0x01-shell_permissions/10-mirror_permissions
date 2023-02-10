@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u-x,g+w,g-x,o-wx hello
+chmod --reference=olleh hello
